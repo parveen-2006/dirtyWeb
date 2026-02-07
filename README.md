@@ -1,7 +1,3 @@
 # authentication
 i connect this to frontend and backend both we're using mongoDb for it. 
 # Author - Parveen
-it's 6 February. 
-we'll work on dashboard. 
-
-wasted the whole day! 
